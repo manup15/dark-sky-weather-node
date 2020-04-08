@@ -1,0 +1,28 @@
+{
+  "name": "dark-sky-weather-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manup15/dark-sky-weather-node.git"
+  },
+  "author": "Manuel Paiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manup15/dark-sky-weather-node/issues"
+  },
+  "homepage": "https://github.com/manup15/dark-sky-weather-node#readme",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "forecastio": "^2.0.0",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.2",
+    "skeleton-css": "^2.0.4"
+  }
+}
